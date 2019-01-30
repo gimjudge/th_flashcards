@@ -1,0 +1,24 @@
+{
+  "name": "flashcards",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gimjudge/th_flashcards.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gimjudge/th_flashcards/issues"
+  },
+  "homepage": "https://github.com/gimjudge/th_flashcards#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "pug": "^2.0.3"
+  }
+}
